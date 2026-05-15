@@ -1,11 +1,11 @@
 export const SITE = {
   name: "Vanity",
-  url: "https://vanity.kirillov.digital",
+  url: "https://vanity.auersperg.co",
   title: "Vanity | Multichain vanity generator",
   description:
     "Generate vanity addresses for EVM, Solana, Bitcoin, TON, and Polkadot directly in the browser with dedicated workers.",
   ogImage: "/images/vanity.png",
-  repositoryUrl: "https://github.com/kirillovdigital/vanity",
+  repositoryUrl: "https://github.com/auersperg/vanity",
   version: "v0.2.0",
   reownProjectId:
     import.meta.env.PUBLIC_REOWN_PROJECT_ID ??

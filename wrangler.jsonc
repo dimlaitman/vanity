@@ -2,6 +2,12 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "vanity",
   "compatibility_date": "2026-01-29",
+  "routes": [
+    {
+      "pattern": "vanity.auersperg.co",
+      "custom_domain": true
+    }
+  ],
   "assets": {
     "directory": "./dist"
   }
